@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Tharakesh-coder!
+- 👀 I’m interested in Node.js/discord.js.
+- 🌱 I’m currently still learning learning advanced Node.js/discord.js.
+- 💞️ I’m looking to collaborate on discord.js to make a Discord Bot.
+- 📫 How to reach me: Just comment I guess. I'm available mostly at Saturdays and Sundays.
+- And should I make this a .md file or .txt file???
