@@ -2,7 +2,7 @@
 - 👀 I’m interested in Lua
 - 🌱 I’m currently learning Lua
 - 💞️ I’m looking to collaborate on Roblox games
-- 📫 How to reach me: discord.gg/ZGzz2uq6uE
+- 📫 How to reach me: https://discord.gg/SdbMBYhdXG
 
 <!---
 Tharakesh-coder/Tharakesh-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
