@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tharakesh-coder
-- 👀 I’m interested in Lua
-- 🌱 I’m currently learning Lua
+- 👀 I’m interested in Lua and discord.js
+- 🌱 I’m currently learning Lua and discord.js
 - 💞️ I’m looking to collaborate on Roblox games
 - 📫 How to reach me: https://discord.gg/SdbMBYhdXG
 
